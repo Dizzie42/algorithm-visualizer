@@ -48,6 +48,10 @@ npm start
 
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
+Live demo: [https://dizzie42.github.io/algorithm-visualizer/](https://dizzie42.github.io/algorithm-visualizer/)
+
+Live demo: [https://dizzie42.github.io/algorithm-visualizer/](https://dizzie42.github.io/algorithm-visualizer/)
+
 ## Running Tests
 ```bash
 # Run all tests
